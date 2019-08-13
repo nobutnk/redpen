@@ -45,6 +45,7 @@
         <module>redpen-cli</module>
         <module>redpen-server</module>
         <module>redpen-distribution</module>
+        <module>redpen-maven-plugin</module>
     </modules>
 
     <build>
