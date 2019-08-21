@@ -167,6 +167,7 @@
                         <additionalClasspathElement>${basedir}/src/main/webapp/WEB-INF</additionalClasspathElement>
                         <additionalClasspathElement>${basedir}/src/main/resources</additionalClasspathElement>
                     </additionalClasspathElements>
+                    <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
             </plugin>
         </plugins>
