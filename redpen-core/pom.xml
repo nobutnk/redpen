@@ -129,6 +129,7 @@
                         <exclude>**/**$**</exclude>
                     </excludes>
                     <argLine>${argLine} -Dfile.encoding=UTF-8 -Duser.language=en -Duser.country=US</argLine>
+                    <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
             </plugin>
             <plugin>
